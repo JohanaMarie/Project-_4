@@ -1,13 +1,20 @@
 # Project-_4
-Project 4 
+Project 4 <br>
 
-Group 7 Members:
-Yenori Alvarez
-Patricia Ferreira
-Adrian Manalo
-Johana Mekwinski
+Group 7 Members:<br>
+Yenori Alvarez<br>
+Patricia Ferreira<br>
+Adrian Manalo<br>
+Johana Mekwinski<br>
 
-Proposal:
-We propose to analyze a stroke prediction dataset to identify key risk factors and develop a predictive model for stroke occurrence. By leveraging machine learning techniques, we aim to uncover insights that can inform preventive strategies and improve healthcare interventions for stroke patients.	
+Proposal:<br>
+We propose to analyze a stroke prediction dataset to identify key risk factors and develop a predictive model for stroke occurrence. By leveraging machine learning techniques, we aim to uncover insights that can inform preventive strategies and improve healthcare interventions for stroke patients.<br>
 
-Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+Source:<br> 
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset<br>
+
+Code:<br>
+stroke.ipynb <br>
+    - used to clean the stroke_data.csv; <br>
+    - null_values: bmi, 201<br>
+    - duplicate_ids: 0<br>
