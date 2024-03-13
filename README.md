@@ -21,3 +21,12 @@ stroke.ipynb <br>
     - used to clean the stroke_data.csv; <br>
     - null_values: bmi, 201<br>
     - duplicate_ids: 0<br>
+
+Creating model:<br>
+    -used train_test_split, StandardScaler from sklearn
+    -used tensoflow
+    -converted categorical date to numerical with pd.get_dummies
+    -split the processed data into features and target arrays
+    -used standardscaler to standardize data
+    -created a sequential model with 2 hidden layers to maximize efficency on first model
+    
