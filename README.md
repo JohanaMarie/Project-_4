@@ -16,6 +16,9 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset<br>
 Tableau Page:
 https://public.tableau.com/views/Project4_17095655267460/StrokePrediction?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
+Tableau Page:<br>
+Tableau was used to creat visuals to help our group better understand the data and how it can be used.
+
 Code:<br>
 stroke.ipynb <br>
     - used to clean the stroke_data.csv; <br>
