@@ -13,6 +13,9 @@ We propose to analyze a stroke prediction dataset to identify key risk factors a
 Source:<br> 
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset<br>
 
+Tableau Page:
+https://public.tableau.com/views/Project4_17095655267460/StrokePrediction?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 Code:<br>
 stroke.ipynb <br>
     - used to clean the stroke_data.csv; <br>
